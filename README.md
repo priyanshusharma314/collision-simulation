@@ -1,2 +1,3 @@
 # collision-simulation
 Modelled high frequency elastic collisions of particles in moving in 1D, efficiently using binary min-heaps
+[collisions.pdf](https://github.com/priyanshusharma314/collision-simulation/files/10148477/collisions.pdf)
